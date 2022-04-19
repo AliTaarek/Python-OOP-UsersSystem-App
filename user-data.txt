@@ -1,0 +1,2 @@
+{'first_name': 'ali', 'last_name': 'ali', 'email': 'ali@mail.com', 'password': '12345', 'mobile': '01066616129'}
+{'first_name': 'hamada', 'last_name': 'lool', 'email': 'hamada@mail.com', 'password': '123456', 'mobile': '01255555555'}
